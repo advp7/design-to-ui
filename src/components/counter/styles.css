@@ -1,0 +1,21 @@
+.row {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.button {
+    font-size: 32px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin: 10px;
+    outline: none;
+    border: 2px solid transparent;
+    color:#172339;
+    padding-bottom: 4px;
+    cursor: pointer;
+    background-color:bisque;
+    border-radius: 2px;
+ 
+  }
